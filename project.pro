@@ -96,3 +96,10 @@ LIBS += $${SHAREDLIBS}
 
 INCLUDEPATH += $${COCOS_INCLUDE_DEPEND_PATH}
 DEPENDPATH += $${COCOS_INCLUDE_DEPEND_PATH}
+
+OTHER_FILES += \
+    bin/bin/debug/res/cards/card_asus_tablets/player_sticker.png \
+    bin/bin/debug/res/cards/card_asus_tablets/glow_and_gradient.png \
+    bin/bin/debug/res/cards/card_asus_tablets/device.png \
+    bin/bin/debug/res/cards/card_asus_tablets/border.png \
+    bin/bin/debug/res/cards/card_asus_tablets/bg.png
