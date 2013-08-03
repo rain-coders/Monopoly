@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-    // 5
+    // 5123
 
     char fullpath[500];                                                     // путь к приложению...
     int length = readlink("/proc/self/exe", fullpath, sizeof(fullpath));
