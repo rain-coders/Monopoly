@@ -4,6 +4,7 @@
 *.o
 *.pro.*
 *.*~
+I_Am_Cocos2D
 
 # Compiled Dynamic libraries
 *.dylib
