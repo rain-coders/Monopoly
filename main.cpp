@@ -6,8 +6,7 @@ using namespace std;
 int main()
 {
 
-    // цеа!
-
+    // yui
 
     char fullpath[500];                                                     // путь к приложению...
     int length = readlink("/proc/self/exe", fullpath, sizeof(fullpath));
