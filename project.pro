@@ -102,5 +102,4 @@ OTHER_FILES += \
     bin/bin/debug/res/cards/card_asus_tablets/glow_and_gradient.png \
     bin/bin/debug/res/cards/card_asus_tablets/device.png \
     bin/bin/debug/res/cards/card_asus_tablets/border.png \
-    bin/bin/debug/res/cards/card_asus_tablets/bg.png \
-    bin/bin/debug/res/cards/card_samsung_tablets/card_samsung_tablets.png
+    bin/bin/debug/res/cards/card_asus_tablets/bg.png
